@@ -1,0 +1,11 @@
+Date,Product,Sales,Units_Sold,Region
+2024-01-01,Product A,15000,500,North
+2024-01-01,Product B,10000,200,North
+2024-02-01,Product A,16500,550,South
+2024-02-01,Product C,8000,300,South
+2024-03-01,Product B,11000,220,East
+2024-03-01,Product A,15500,510,East
+2024-04-01,Product C,9500,350,West
+2024-04-01,Product B,12000,240,West
+2024-05-01,Product A,17000,580,North
+2024-05-01,Product C,8500,310,North
